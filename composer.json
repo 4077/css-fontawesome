@@ -1,0 +1,15 @@
+{
+    "name": "fed/css-fontawesome",
+    "type": "ewma-module",
+    "description": "ewma css fontawesome",
+    "authors": [
+        {
+            "name": "fed",
+            "email": "ewmafw@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fed/ewma-module-installer-plugin": "~0.0.1"
+    }
+}
